@@ -4,7 +4,7 @@
 
 ## Lessons
 
-![Geostatistics Lessons](geostatistics_lessons_logo.png) Lessons with notebooks and data available include:
+Lessons with notebooks and data available include:
 
 * An Application of Bayes Theorem to Geostatistical Mapping ([notebook](notebooks/bayesmapping/bayesmapping.ipynb) and [lesson](http://geostatisticslessons.com/lessons/bayesmapping)), Jared Deutsch and Clayton Deutsch, 2018
 
@@ -14,4 +14,4 @@ Notebooks are implemented in Python 3 using the scientific python stack (includi
 
 ## License
 
-[MIT](LICENSE)
+Notebooks are licensed under the [MIT](LICENSE) license separately from Lessons. Refer to [Geostatistics Lessons](http://geostatisticslessons.com/) for licensing information on the Lessons.
