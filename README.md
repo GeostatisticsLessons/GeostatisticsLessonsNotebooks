@@ -8,6 +8,7 @@ Lessons with notebooks and data available include:
 
 * An Application of Bayes Theorem to Geostatistical Mapping ([notebook](notebooks/bayesmapping/bayesmapping.ipynb) and [lesson](http://geostatisticslessons.com/lessons/bayesmapping)), Jared Deutsch and Clayton Deutsch, 2018
 * Multidimensional Scaling ([notebook](notebooks/mds/mds.ipynb) and [lesson](http://geostatisticslessons.com/lessons/mds)), Steven Mancell and Clayton Deutsch, 2019
+* Collocated Cokriging ([notebook](notebooks/collocatedcokriging/collocatedcokriging.ipynb) and [lesson](http://geostatisticslessons.com/lessons/collocatedcokriging)), Matthew Samson and Clayton Deutsch, 2020
 
 ## Dependencies
 
