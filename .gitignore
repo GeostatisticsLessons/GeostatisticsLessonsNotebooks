@@ -49,6 +49,10 @@ coverage.xml
 *.cover
 .hypothesis/
 
+# Temporary 3D viewer files
+*/temp_rmsp_viewer_data/*
+*.vtp
+
 # Translations
 *.mo
 *.pot
