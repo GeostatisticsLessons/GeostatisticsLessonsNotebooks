@@ -11,6 +11,7 @@ Lessons with notebooks and data available include:
 * Collocated Cokriging ([notebook](notebooks/collocatedcokriging/collocatedcokriging.ipynb) and [lesson](http://geostatisticslessons.com/lessons/collocatedcokriging)), Matthew Samson and Clayton Deutsch, 2020
 * The Nugget Effect ([notebook](notebooks/nuggeteffect/nuggeteffect.ipynb) and [lesson](http://geostatisticslessons.com/lessons/nuggeteffect)), Eric Daniels and Diogo Silva, 2024
 * The Pairwise Relative Variogram ([notebook](notebooks/pairwiserelative/pairwiserelative.ipynb) and [lesson](http://geostatisticslessons.com/lessons/pairwiserelative)), Haoze Zhang and Ryan Barnett, 2024
+* Introduction to Choosing a Kriging Plan ([notebook](notebooks/introkrigingplan/introkrigingplan.ipynb) and [lesson](http://geostatisticslessons.com/lessons/introkrigingplan)), James Eke and Ryan Barnett, 2024
 
 ## Dependencies
 
