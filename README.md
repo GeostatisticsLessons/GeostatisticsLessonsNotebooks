@@ -13,6 +13,7 @@ Lessons with notebooks and data available include:
 * The Pairwise Relative Variogram ([notebook](notebooks/pairwiserelative/pairwiserelative.ipynb) and [lesson](https://geostatisticslessons.com/lessons/pairwiserelative)), Haoze Zhang and Ryan Barnett, 2024
 * Introduction to Choosing a Kriging Plan ([notebook](notebooks/introkrigingplan/introkrigingplan.ipynb) and [lesson](https://geostatisticslessons.com/lessons/introkrigingplan)), James Eke and Ryan Barnett, 2024
 * Trend Modeling and Modeling with a Trend ([notebook](notebooks/trendmodeling/trendmodeling.ipynb) and [lesson](https://geostatisticslessons.com/lessons/trendmodeling)), Sebastian Sanchez, Ben Harding, and Ryan Barnett, 2024
+* Change of Support and the Volume Variance Relation ([notebook](notebooks/changeofsupport/changeofsupport.ipynb) and [lesson](https://geostatisticslessons.com/lessons/changeofsupport)), Haoze Zhang and Ryan Barnett, 2024
 
 ## Dependencies
 
