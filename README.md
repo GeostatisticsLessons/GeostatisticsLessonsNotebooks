@@ -15,6 +15,8 @@ Lessons with notebooks and data available include:
 * Trend Modeling and Modeling with a Trend ([notebook](notebooks/trendmodeling/trendmodeling.ipynb) and [lesson](https://geostatisticslessons.com/lessons/trendmodeling)), Sebastian Sanchez, Ben Harding, and Ryan Barnett, 2024
 * Change of Support and the Volume Variance Relation ([notebook](notebooks/changeofsupport/changeofsupport.ipynb) and [lesson](https://geostatisticslessons.com/lessons/changeofsupport)), Haoze Zhang and Ryan Barnett, 2024
 * Angle Specification ([notebook](notebooks/anglespecification/anglespecification.ipynb) and [lesson](https://geostatisticslessons.com/lessons/anglespecification)), Ben Harding and Matthew Deutsch, 2025
+* Cokriging with Unequally Sampled Data ([notebook](notebooks/cokriging/cokriging.ipynb) and [lesson](https://geostatisticslessons.com/lessons/cokrigingunequal)), Luis Davila and Ryan Barnett, 2025
+* Transforming Data to a Gaussian Distribution ([notebook](notebooks/gaussiantransform/gaussiantransform.ipynb) and [lesson](https://geostatisticslessons.com/lessons/normalscore)), Haoze Zhang, Ben Harding, and Ryan Barnett, 2025
 
 ## Dependencies
 
