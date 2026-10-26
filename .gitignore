@@ -1,5 +1,10 @@
-# Images
+# Generated notebook artifacts (figures are embedded in the .ipynb files)
 *.png
+*.svg
+*.pdf
+*.html
+/simcache/
+/output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -53,7 +58,7 @@ coverage.xml
 .hypothesis/
 
 # Temporary 3D viewer files
-*/temp_rmsp_viewer_data/*
+temp_rmsp_viewer_data/
 *.vtp
 
 # Translations
