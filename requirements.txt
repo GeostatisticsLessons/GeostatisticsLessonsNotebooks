@@ -10,6 +10,6 @@ numba==0.60.0
 tqdm==4.67.1
 nbformat==5.10.4
 nbclient==0.10.0
-nbconvert==7.16.4
+nbconvert==7.17.2
 ipykernel==6.29.5
 ruff==0.8.0
